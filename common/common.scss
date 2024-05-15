@@ -1,0 +1,28 @@
+@font-face {
+  font-family: "Halloween Real";
+  src: url($halloweenfont) format('woff2')
+}
+
+.names .user-title--contributor,
+.names .user-title--moderator,
+.user-main .details .user-profile-names__title,
+.user-card .names h2 {
+  text-transform: uppercase;
+  color: #f90;
+  font-weight: bold;
+  font-family: "Halloween Real";
+}
+
+#topic-title h1 a,
+.sidebar-section-header-text,
+.topic-list-main-link a.title, .latest-topic-list-item .main-link a.title, .topic-list .main-link a.title {
+  color: #f90;
+  font-family: "Halloween Real";
+}
+
+.topic-list-item.visited .topic-list-data a.title:not(.badge-notification),
+.latest-topic-list-item.visited a.title:not(.badge-notification),
+.category-topic-link.visited a.title:not(.badge-notification) {
+  color: #e80;
+  font-family: "Halloween Real";
+}
