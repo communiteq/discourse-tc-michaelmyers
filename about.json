@@ -9,7 +9,7 @@
   "maximum_discourse_version": null,
   "assets": {
     "halloweenfont": "assets/HalloweenReal.woff",
-    "background_image": "assets/background.jpg"
+    "background_image": "assets/background.jpg",
     "annualstar": "assets/annual_star.gif"
   },
   "color_schemes": {
